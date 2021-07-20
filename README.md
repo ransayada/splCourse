@@ -17,7 +17,7 @@ implementing a “Course Registration System” server and client.
 The communication between the server and the client(s) will be performed using a binary communication protocol.  
 [ link ](https://docs.google.com/document/u/1/d/e/2PACX-1vRn6esmt4SNU4tU-iStPERIEJQPV4SSmBtIvmGEPWCvT0GzaTSpkjkp4u1hOtaGHg/pub)  
 ## Assignment4:  
-pythin + SQLite program   
+python + SQLite program   
 1. Create and populate the database according to a configuration file.  
 2. Execute a list of orders, according to a second file.  
 3. Print a summary in a third file  
